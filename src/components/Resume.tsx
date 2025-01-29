@@ -11,7 +11,7 @@ const Resume = () => {
             Download my resume to learn more about my experience and skills
           </p>
           <a
-            href="/path-to-your-resume.pdf" // Replace with your actual resume URL
+            href="/portfolio/Surya_sde_resume.pdf" // Replace with your actual resume URL
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors"
