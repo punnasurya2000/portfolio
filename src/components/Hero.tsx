@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
         <div className="text-center">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
-            Hi, I'm <span className="text-blue-600">Madhu kumar Gopal</span>
+            Hi, I'm <span className="text-blue-600">Surya Punna</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8">
             Full Stack Developer | Data Scientist | AWS Cloud Architect | AI/ML Enthusiast
