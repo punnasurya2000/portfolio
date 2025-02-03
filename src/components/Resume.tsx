@@ -1,6 +1,6 @@
 import React from 'react';
 import { FileText } from 'lucide-react';
-import CV from '../../Surya_sde_resume.pdf';
+import CV from '../../SuryaPunna_Detailed_resume.pdf';
 
 
 const Resume = () => {
